@@ -34,3 +34,9 @@ Store Sales – Time Series Forecasting, available on Kaggle.
 Author
 
 Future Interns – Sales and Demand Forecasting Task
+
+Model Evaluation and Limitations
+
+The improved Random Forest model achieved a Mean Absolute Error (MAE) of 167.07, compared with 490.77 for the original model on the validation sample. This represents an improvement in validation performance.
+
+Limitation: The models were evaluated on a sample of the historical sales data. Their performance may differ when forecasting future sales on unseen data. Further testing is needed before using the predictions for real inventory decisions.
